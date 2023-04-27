@@ -1,0 +1,12 @@
+# Practices Platform AWS (Práticas Plataforma AWS)
+
+### Table in DynamoDB (Tabela no DynamoDB)
+![Table in DynamoDB](https://raw.githubusercontent.com/ErikDMCosta/aprendendo-AWS-Compass-UOL/main/API%20CRUD%20AWS/AWS-Platform/(1)-DynamoDB.png)
+### Functions Lambda (Funções Lambda)
+![Functions Lambda](https://raw.githubusercontent.com/ErikDMCosta/aprendendo-AWS-Compass-UOL/main/API%20CRUD%20AWS/AWS-Platform/(2)-Function-Lambda.jpeg)
+### API HTTP (HTTP API)
+![API HTTP](https://raw.githubusercontent.com/ErikDMCosta/aprendendo-AWS-Compass-UOL/main/API%20CRUD%20AWS/AWS-Platform/(3)-API-HTTP.jpeg)
+### Routes (Rotas)
+![Routes](https://raw.githubusercontent.com/ErikDMCosta/aprendendo-AWS-Compass-UOL/main/API%20CRUD%20AWS/AWS-Platform/(4)-Routes.jpeg)
+### Integrations to Routes (Integrações com Rotas)
+![Integrations to Routes](https://raw.githubusercontent.com/ErikDMCosta/aprendendo-AWS-Compass-UOL/main/API%20CRUD%20AWS/AWS-Platform/(5)-Integrations.jpeg)
